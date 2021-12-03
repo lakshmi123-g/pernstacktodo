@@ -2,8 +2,8 @@
 
 npm init -y
   ## backend
-npm i fastify
+npm i express
 npm i pg
-npm i fastify-plugin
-npm i fastify-cors
+npm i cors
+
 
